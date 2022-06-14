@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+html
+{
+    font-size: 16px;
+
+}
+#cont
+{
+
+    width: 500px;
+    border: 3px solid rgb(18, 123, 209);
+    border-radius: 10px ;
+    font-size: 1rem;
+    margin-top: 10px ;
+    padding: 30px;
+    color: brown;
+
+}
+.bouton
+{
+  margin: 10px;
+  width: 100%;
+  display:flex ;
+  justify-content: center;
+  gap: 180px;
+}
